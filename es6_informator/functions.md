@@ -27,7 +27,7 @@ const square = function(x = 3){
 
 (function(name){
   console.log('Hello '+ name);
-})('Brad');
+})('James');
 
 // PROPERTY METHODS
 
